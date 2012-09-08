@@ -2,6 +2,8 @@
 
 ✓ (pronounced *checkmark* or *“U+2713”*) is three things:
 
+UPDATE: This README states some things that are not true, that's how Readme Driven Development goes! I'll update it ASAP, thank you :)
+
 * Yet another Ruby test library because, you know, the world needs more Ruby testing libraries
 * An experiment to test how deep the usual Ruby stack (Ruby itself, Rubygems, Bundler) and the related ecosystem (file systems, shells, editors, version control systems) embrace Unicode
 * A stupid thing you could but probably should not try at home. No ☃s were damaged while doing it though
